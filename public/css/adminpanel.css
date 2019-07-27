@@ -1,0 +1,28 @@
+/* ========== Theme ========== */
+.bg-primary {
+    background-color: #563d7c !important;
+}
+
+.text-primary {
+    color: #563d7c !important;
+}
+
+
+/* ======= Utility ======= */
+.bg-transparent {
+    background-color: transparent;
+}
+
+/* ======= Navbar and Sidebar */
+#sidebar {
+    position: fixed;
+    width: 220px;
+    top: 0px;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.nav-spacer {
+    min-width: 220px;
+}
